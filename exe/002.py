@@ -1,3 +1,3 @@
-# Saldação@User      # aula01 a 05
+# Saldação@User      # aula 01 a 04
 nome = input('Digite seu nome: ')
 print('É um prazer te conhecer,{}!'.format(nome))
